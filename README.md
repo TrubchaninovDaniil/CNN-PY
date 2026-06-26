@@ -15,3 +15,5 @@ python main.py --train --epochs 15
 ```
 
 ### Для точности можно повысить --epochs (чем выше - тем лучше). Число показывает сколько раз нейросеть прогонит через себя датасет, с каждым разом Loss будет уменьшаться.
+
+### Сам датасет был взят по ссылке: https://www.kaggle.com/datasets/balabaskar/wonders-of-the-world-image-classification/data
